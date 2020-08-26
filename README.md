@@ -9,6 +9,7 @@ When it comes to the definition of Machine Learning, we can say that it is the s
 
 ### This repo will contain popular topics of my Machine Learning Lab with Examples for each of them. Few of them are pointed out as follows:
 - Novel Coronavirus is all over the World. Just another (as there are many already) COVID Dashboard in Python to see its spread, count and visualize its global reach.
+- Real Time Webcam Sketch Mode using Python.
 - (ML_LAB_01) Starting Data Analyis, Reading Data and Simple Visualizations
 - (ML_LAB_02) Supervised Learning :
   - Demonstrate Naive Bayes Classifier for nominal Data.
@@ -22,6 +23,7 @@ When it comes to the definition of Machine Learning, we can say that it is the s
   - Demonstrate application of the reduced data for visualization.
   - Demonstrate the process using number of components and percentage of variance as criteria for obtaining the reduced dataset.
 - (ML_LAB_05) Demonstration of Linear Discriminant Analysis (LDA) for Dimensionality Reduction
+- (ML_LAB_06) Exploring Logistic Regression and "make_classification" and "make_multilabel_classification" functions for Generating Synthetic Data.
 
   (More Will Be Added Soon)
   
