@@ -24,7 +24,10 @@ When it comes to the definition of Machine Learning, we can say that it is the s
   - Demonstrate the process using number of components and percentage of variance as criteria for obtaining the reduced dataset.
 - (ML_LAB_05) Demonstration of Linear Discriminant Analysis (LDA) for Dimensionality Reduction
 - (ML_LAB_06) Exploring Logistic Regression and "make_classification" and "make_multilabel_classification" functions for Generating Synthetic Data.
-
+- (ML_LAB_07) Logistic Regression 
+  - Accuracy Comparison With and Without Regularization (Lasso and Ridge) for Breast Cancer Dataset.
+  - Comparing KNN with LR for the Same Dataset
+  
   (More Will Be Added Soon)
   
  > Aaqib Ahmad  
