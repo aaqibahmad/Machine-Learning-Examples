@@ -28,6 +28,15 @@ When it comes to the definition of Machine Learning, we can say that it is the s
   - Accuracy Comparison With and Without Regularization (Lasso and Ridge) for Breast Cancer Dataset.
   - Comparing KNN with LR for the Same Dataset
   
+- (ML_LAB_08) Linear Regression
+  - Demonstrate the impact of regularization-
+  - Using any suitable dataset of sklearn
+  - Generating a synthetic dataset for regression using make_regression function.
+
+- (ML_LAB_09) Support Vector Classifier (SVC)
+  - Classification using Linear, Polynomial and Radial Basis Function (RBF) Kernels. Demonstrate the Impact of Regularization.
+  - Demonstrate GridSearchCV method for obtaining optimal HyperParameters for Classification using RBF Kernel.
+  
   (More Will Be Added Soon)
   
  > Aaqib Ahmad  
