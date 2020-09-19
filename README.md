@@ -10,7 +10,7 @@ When it comes to the definition of Machine Learning, we can say that it is the s
 ### This repo will contain popular topics of my Machine Learning Lab with Examples for each of them. Few of them are pointed out as follows:
 - Novel Coronavirus is all over the World. Just another (as there are many already) COVID Dashboard in Python to see its spread, count and visualize its global reach.
 - Real Time Webcam Sketch Mode using Python.
-- (ML_LAB_01) Starting Data Analyis, Reading Data and Simple Visualizations
+- (ML_LAB_01) Starting Data Analysis, Reading Data and Simple Visualizations
 - (ML_LAB_02) Supervised Learning :
   - Demonstrate Naive Bayes Classifier for nominal Data.
   - Demonstrate Naive Bayes Classifier for numeric Data.
