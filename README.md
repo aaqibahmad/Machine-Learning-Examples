@@ -36,7 +36,9 @@ When it comes to the definition of Machine Learning, we can say that it is the s
 - (ML_LAB_09) Support Vector Classifier (SVC)
   - Classification using Linear, Polynomial and Radial Basis Function (RBF) Kernels. Demonstrate the Impact of Regularization.
   - Demonstrate GridSearchCV method for obtaining optimal HyperParameters for Classification using RBF Kernel.
-  
+ 
+- (ML_LAB_10) Random Forest Classifier for Wine Dataset.
+
   (More Will Be Added Soon)
   
  > Aaqib Ahmad  
