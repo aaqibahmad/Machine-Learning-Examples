@@ -39,6 +39,16 @@ When it comes to the definition of Machine Learning, we can say that it is the s
  
 - (ML_LAB_10) Random Forest Classifier for Wine Dataset.
 
-  (More Will Be Added Soon)
+- (ML_LAB_11) Demonstrate Multilayer Perceptron using sklearn
+  - Minimum Two Different Network Topologies.
+  - 3 Different Activation Functions
+  - MLP for Regression.
   
+ End of Machine Learning Lab.
+ 
+ Thank You.
+ 
+ 
+
+
  > Aaqib Ahmad  
